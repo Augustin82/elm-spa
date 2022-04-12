@@ -1,8 +1,8 @@
 module Main exposing (..)
 
 import Browser exposing (Document)
-import Element
-import Element.Input as Input
+import Html
+import Html.Attributes
 import Pages.Counter as Counter
 import Pages.Home as Home
 import Pages.SignIn as SignIn
